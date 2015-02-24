@@ -19,6 +19,7 @@ How the App works/ Frontend:
 
 Backend:
 * Need mprint api to access UMich server from desktop
+* http://mprint.umich.edu/api
 
 Languages:
 * jquery - For pulling and sending requests from websites
