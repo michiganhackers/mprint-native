@@ -36,3 +36,7 @@ Things to Do:
 * pull a queue of busy printers
 * learn MPrint api
 * learn jscript on mprint.umich.edu
+
+iOS app:
+
+https://github.com/davidquesada/BluePrinter
