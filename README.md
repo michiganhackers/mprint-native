@@ -30,3 +30,6 @@ Creative Assets:
 * Icon for desktop/mobile app
 * Buttons for printing and options
 
+Things to Do:
+* get a list of available printers, starting from near user location
+* pull a queue of busy printers
