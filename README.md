@@ -27,6 +27,8 @@ Languages:
 * javascript - Frontend and backend (allows jquery and ajax to be used)
 * Java - For Android app
 
+* The iOS app we found was written in objective-C. So we could use that or swift.
+
 Creative Assets:
 * Icon for desktop/mobile app
 * Buttons for printing and options
